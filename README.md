@@ -1,5 +1,8 @@
 # README
 
+Followed tutorial for setup: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend
+Followed tutorial for postgres: https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-macos
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
